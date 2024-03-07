@@ -526,6 +526,9 @@ footer .input-group-text button {
   outline: 0;
   transition: 0.5s;
 }
+footer .input-group-text button i {
+  transition: 0.5s;
+}
 footer .input-group-text button:hover i {
   color: var(--dark-color);
 }
